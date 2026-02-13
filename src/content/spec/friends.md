@@ -2,7 +2,6 @@
 title: "友情链接"
 description: "与优秀的朋友们一起成长"
 ---
-
 ---
 
 ## 🍀本站信息
@@ -10,16 +9,16 @@ description: "与优秀的朋友们一起成长"
 申请友链前请先在自己网站添加本站友链，请使用以下信息：
 
 ```yaml
-站点名称: 夏夜流萤
-站点描述: 飞萤之火自无梦的长夜亮起，绽放在终竟的明天。
-站点链接: https://blog.cuteleaf.cn
-头像链接: https://q1.qlogo.cn/g?b=qq&nk=7618557&s=640
+站点名称: Pigeons2023
+站点描述: 不曾与你分享的时间,我在进步.
+站点链接: https://blog.pigeons2023.asia
+头像链接: https://blog.pigeons2023.asia/_image/?href=%2F%40fs%2FD%3A%2FUsers%2Fpigeons2023%2FDesktop%2Fnewblog%2FFirefly%2Fsrc%2Fassets%2Fimages%2Favatar.webp%3ForigWidth%3D150%26origHeight%3D150%26origFormat%3Dwebp&w=150&h=150&q=80&f=webp&fit=cover&position=center
 
 ```
 
 ## ✉️申请友链
 
-请将您的网站信息发送邮件至：`xxx@xxx.com`
+请将您的网站信息发送邮件至：`pigeons2023@hotmail.com`
 
 **邮件标题**：`友链申请 - [您的站点名称]`
 
@@ -33,8 +32,7 @@ description: "与优秀的朋友们一起成长"
 头像链接：[您的头像链接]
 ```
 
-
-## ⚠️注意事项 
+## ⚠️注意事项
 
 1. **互换原则**：请先将本站添加到您的友链页面，我会在确认后添加您的友链
 2. **链接维护**：如发现友链网站长期无法访问或内容违规，将会移除友链
