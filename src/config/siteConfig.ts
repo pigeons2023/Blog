@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "不曾与你分享的时间,我在进步.",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://blog.pigeons2023.asia",
 
 	// 站点描述
 	description:
